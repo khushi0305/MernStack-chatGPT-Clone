@@ -33,7 +33,7 @@ const Homepage = () => {
             />
             <Stack p={3} pt={0}>
               <Typography fontWeight="bold" variant="h5">
-                TEXT SUMAMRY
+                TEXT SUMMARY
               </Typography>
               <Typography variant="h6">
                 Summarize long text into short sentences
@@ -43,7 +43,7 @@ const Homepage = () => {
         </Box>
         <Box p={2}>
           <Typography variant="h4" mb={2} fontWeight="bold">
-            Parapgraph Generation
+            Paragraph Generation
           </Typography>
           <Card
             onClick={() => navigate("/paragraph")}
@@ -65,7 +65,7 @@ const Homepage = () => {
             />
             <Stack p={3} pt={0}>
               <Typography fontWeight="bold" variant="h5">
-                Parapgraph
+                PARAGRAPH
               </Typography>
               <Typography variant="h6">
                 Generate Paragraph with words
@@ -97,7 +97,7 @@ const Homepage = () => {
             />
             <Stack p={3} pt={0}>
               <Typography fontWeight="bold" variant="h5">
-                Chatbot
+                CHATBOT
               </Typography>
               <Typography variant="h6">Chat With AI Chatbot</Typography>
             </Stack>
@@ -130,14 +130,14 @@ const Homepage = () => {
                 JS CONVERTER
               </Typography>
               <Typography variant="h6">
-                Trasnlate english to javascript code
+                Translate english to javascript code
               </Typography>
             </Stack>
           </Card>
         </Box>
         <Box p={2}>
           <Typography variant="h4" mb={2} fontWeight="bold">
-            AI SCIFI Images
+            AI Sci-Fi Images
           </Typography>
           <Card
             onClick={() => navigate("/scifi-image")}
@@ -159,9 +159,9 @@ const Homepage = () => {
             />
             <Stack p={3} pt={0}>
               <Typography fontWeight="bold" variant="h5">
-                Scifi Image
+                SCI-FI IMAGES
               </Typography>
-              <Typography variant="h6">Generate Scifi images</Typography>
+              <Typography variant="h6">Generate Sci-Fi images</Typography>
             </Stack>
           </Card>
         </Box>

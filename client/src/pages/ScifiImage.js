@@ -124,7 +124,7 @@ const ScifiImage = () => {
               lineHeight: "450px",
             }}
           >
-            Your Scifi Image Will Apprea Here
+            Your Sci-Fi Image Will Appear Here
           </Typography>
         </Card>
       )}
